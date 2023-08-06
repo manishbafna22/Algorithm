@@ -25,5 +25,5 @@ BFS is widely used in various applications, such as network routing, maze-solvin
 The problem statement is to determine if a ball can reach the destination in a maze. The maze is represented as a 2D matrix of size MxN, where each cell is either a 0 (empty space) or a 1 (wall). The ball can move up, down, left, or right, but it can't go through walls. The ball starts at a given starting position, and the destination is another cell in the matrix. We need to find if the ball can reach the destination by navigating through the maze.
 
 **Presentation Link:**
-[Leet Code 490: The MAZE using Breadth First Search]( https://docs.google.com/presentation/d/1eXXO3uMvlgs7S3fHf_E7orDWWi3e-laPGmtKvDMY0TM/edit?usp=sharing"Leet Code 490: The MAZE using Breadth First Search")
+[Leet Code 490: The MAZE using Breadth First Search](https://docs.google.com/presentation/d/1eXXO3uMvlgs7S3fHf_E7orDWWi3e-laPGmtKvDMY0TM/edit?usp=sharing "Leet Code 490: The MAZE using Breadth First Search")
   
