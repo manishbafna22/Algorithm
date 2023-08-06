@@ -1,6 +1,7 @@
-                                                        **Breadth-First Traversal**
+**Breadth First Search**
 
-**Breadth First Search Concept:**
+
+**Introduction**
 BFS is a graph traversal algorithm used to explore all vertices in a graph or search for a specific node in the graph.
 The algorithm explores all nodes at the current level before moving to nodes at the next level. This means it explores nodes layer by layer.
 BFS is often used to find the shortest path between two nodes in an unweighted graph, among other applications. 
